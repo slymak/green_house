@@ -2,7 +2,11 @@
 import RPi.GPIO as GPIO
 import time
 
+<<<<<<< HEAD
 pump = 23	# pumpa
+=======
+pump = 23       # pumpa
+>>>>>>> 1198eccf4072a2b1a9d4760e2357ef813d703c24
 
 GPIO.setwarnings(False)
 GPIO.setmode(GPIO.BCM)
